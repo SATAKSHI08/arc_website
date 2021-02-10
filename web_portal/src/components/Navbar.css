@@ -1,0 +1,15 @@
+.nav{
+    background-color: purple;
+}
+li{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+}
+li:hover{
+    color: white;
+    background-color: pink;
+}
+a{
+    color: white;
+}
