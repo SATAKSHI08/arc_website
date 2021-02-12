@@ -1,0 +1,26 @@
+
+  .centered {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 30px;
+  }
+
+  
+ 
+  button{
+      color: black;
+      border-radius: 30px;
+      background-color: purple;
+
+  }
+ 
+.bg {
+
+    box-sizing: border-box; 
+    display: block; 
+    width: 100vw;  
+    height: 100vh; 
+    background: url('http://images.edexlive.com/uploads/user/imagelibrary/2020/11/11/original/indian-institute-of-technology-bhu-iit-bhu-varanasi.jpg') no-repeat center center;  
+   
+  }
